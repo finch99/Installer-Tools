@@ -1,5 +1,5 @@
 # Installer-Tools
-Directory Repository tools and any features from them 4.. have fun and enjoy ! 
+Directory Repository tools and any features from them .. have fun and enjoy ! 
 # How to Usage 
 clone my site github https://github.com/finch99/Installer-Tools.
  && cd Installer-Tools
