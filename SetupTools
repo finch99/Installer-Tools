@@ -32,14 +32,14 @@ read enter
 exit
 }
 
-echo -e $blue"          ***********************************************"
-echo -e $blue"          # $blue  toolkit for hackers v2.0 $blue       #"
-echo -e $green"         # $green happy use and enjoy guys   $green    #"
-echo -e $bluee"         # $blue  contact: mr.finch99@aol.com $blue    #"
-echo -e $green"         # $green greetz : Muhammad SAW - BHI    $green#"
-echo -e $blue"          # $blue  copyright : ./Mr finch99 $blue       #"
-echo -e $green"         # $green thanks to : Allah SWT $green         #"
-echo -e $blue"          ***********************************************"
+echo -e $red"          ***********************************************"
+echo -e $green"               # $green  toolkit for hackers v2.0     $green  #"
+echo -e $red"                 # $red    happy use and enjoy guys     $red    #"
+echo -e $green"               # $green  contact: mr.finch99@aol.com  $green  #"
+echo -e $red"                 # $red    greetz : Muhammad SAW - BHI  $red    #"
+echo -e $green"               # $green  copyright : ./Mr finch99     $green  #"
+echo -e $red"                 # $red    thanks to : Allah SWT        $red    #"
+echo -e $green"          ***********************************************"
 echo ""
 echo -e $green" 01) Red Hawk"
 echo -e $green" 02) D-Tect"
