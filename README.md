@@ -10,10 +10,10 @@ thanks for usage my tools
 # Contact me 
 email : mr.finch99@aol.com
 # follow me on your favorite social media 
-IG : https://instagram.com/mr.finch99
-Twitter : https://twitter.com/mr.finch99
-YouTube : https://www.youtube.com/channel/UCTaEOfTMVldUgsksbC88N5Q
-site wordpress : https://mrfinchtalk.wordpress.com
+- IG : https://instagram.com/mr.finch99
+- Twitter : https://twitter.com/mr.finch99
+- YouTube : https://www.youtube.com/channel/UCTaEOfTMVldUgsksbC88N5Q
+- site wordpress : https://mrfinchtalk.wordpress.com
 # Greattss Supports 
 - Allah SWT 
 - Muhammad SAW
