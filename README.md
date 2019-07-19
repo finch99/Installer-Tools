@@ -11,7 +11,7 @@ thanks for usage my tools
 email : mr.finch99@aol.com
 # follow me on your favorite social media 
 - IG : https://instagram.com/mr.finch99
-- Twitter : https://twitter.com/mr.finch99
+- Twitter : https://twitter.com/MFinch99?s=09
 - YouTube : https://www.youtube.com/channel/UCTaEOfTMVldUgsksbC88N5Q
 - site wordpress : https://mrfinchtalk.wordpress.com
 # Greattss Supports 
