@@ -880,19 +880,19 @@ fi
 
 if [ $act = 55 ] || [ $act = 55 ]
 then
-echo -e $green" pesan terakhir "
+echo -e $green" note "
 sleep 1
-echo -e $green" dear jomblo "
+echo -e $green" thans for "
 sleep 1
-echo -e $green" jangan lupa sholat dan sedekah! "
+echo -e $green" hackers novi orbis terrarum "
 sleep 1
-echo -e $green" Please Wait.... "
+echo -e $green" incipiens de devitise "
 sleep 1
-echo -e $green" contact : mr.finch99@aol.com "
+echo -e $green" illuminaty anonymous secret organitation "
 sleep 1
-echo -e $red" ig : https://www.instagram.com/mr.finch99 "
+echo -e $red" cottage enthusiast code "
 sleep 1
-echo -e $red" Bye ea :* "
+echo -e $red" Copyright 2018 "
 sleep 1
 exit
 fi
